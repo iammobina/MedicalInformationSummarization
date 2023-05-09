@@ -1,4 +1,4 @@
-# MedicalInformationSummarization
+# Medical Information Summarization 🩺🏥
 
 Medical Information Summarization is an application created as an efficient tool to summarize medical texts automatically and quickly, which will select the most relevant information from medical books or texts and will allow you to optimize your time.
 
